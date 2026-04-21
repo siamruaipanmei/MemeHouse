@@ -148,7 +148,7 @@ const STUDENTS = [
     meme: null, reason: null },
   { name: "HAOBAM RONIT SINGH",
     roll: "NDUIBC2467", course: "BCA (4 Years)", section: "Section A",
-    meme: null, reason: null },
+    meme: "./images/ronit_meme.webp", reason:  "This is the first meme I saw when I opened the website"},
   { name: "ANGOM LINDA DEVI",
     roll: "NDUIBC2468", course: "BCA (4 Years)", section: "Section A",
     meme: null, reason: null },
